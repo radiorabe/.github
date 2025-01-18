@@ -23,4 +23,4 @@ would like to get to know us in person.
 ## Gettng on the air.
 
 If you want to get your program broadcast on our station, please visit our
-web site for [further information](https://rabe.ch/sendung-machen/).
+web site for [further information](https://rabe.ch/mitmachen).
