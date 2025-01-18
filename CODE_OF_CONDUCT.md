@@ -61,7 +61,7 @@ representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement by reaching 
 out to the semi-public `it@rabe.ch` email address or contacting the RaBe staff
-via the contact information [on our homepage](https://rabe.ch/kontaktadressen/) .
+via the contact information [on our homepage](https://rabe.ch/kontakt) .
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the

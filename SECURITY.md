@@ -11,4 +11,4 @@ semi-public, Email it@rabe.ch.
 
 Same as our radio station, the RaBe IT deparment is volunteer run. Please keep
 this in mind when expecting a fast turnaround on security issues. In urgent, 
-and/or sensitive cases you may also [reach out to our staff directly](https://rabe.ch/kontaktadressen/).
+and/or sensitive cases you may also [reach out to our staff directly](https://rabe.ch/kontakt).
