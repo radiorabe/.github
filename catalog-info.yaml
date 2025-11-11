@@ -1,0 +1,16 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rabe-github
+  title: RaBe GitHub
+  description: |
+    GitHub is were we host our code. 99.999% of it is in public repos.
+  annotations:
+    github.com/project-slug: radiorabe/.github
+  links:
+    - url: https://github.com/radiorabe
+      title: GitHub Profile Page
+spec:
+  owner: it-reaktion
+  domain: it
